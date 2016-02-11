@@ -1,0 +1,26 @@
+_repo: De-Eenzame_48178
+creator:
+  authors:
+  - agent_name: Boonen, Jaak
+    gutenberg_agent_id: '44661'
+    url: http://www.gutenberg.org/2009/agents/44661
+  - agent_name: Buysse, Cyriël
+    alias: Buysse, Cyriel
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '3480'
+    url: http://www.gutenberg.org/2009/agents/3480
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Cyriel_Buysse
+    - http://en.wikipedia.org/wiki/Cyriel_Buysse
+description: ''
+gutenberg_issued: '2015-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48178'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: De Eenzame
+url: http://www.gutenberg.org/ebooks/48178
