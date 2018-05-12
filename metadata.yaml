@@ -1,4 +1,8 @@
 _repo: De-Eenzame_48178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Boonen, Jaak
@@ -14,6 +18,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48178#De-Eenzame
 gutenberg_issued: '2015-02-06'
 gutenberg_type: Text
 identifiers:
